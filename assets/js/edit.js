@@ -23,6 +23,7 @@ $.ajax({
     }
 })
 
+// 无效，练习GitHub
 
 // 给完成注册事件
 $('#sub').on('click',function(){
